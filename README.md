@@ -14,6 +14,8 @@
 <a href="https://www.linkedin.com/in/%EB%9D%BC%EC%98%81-%EA%B6%8C-8516301b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=ffffff"/></a>
 <a href="https://velog.io/@raunee" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=ffffff"/></a>
 
+![Liz's GitHub stats](https://github-readme-stats.vercel.app/api?username=raunee&show_icons=true&theme=radical)
+
 <!--
 **raunee/raunee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
