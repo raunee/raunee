@@ -1,8 +1,7 @@
 ### Hi there 👋
-#### I'm Elizabeth "Liz" Kwon.
+#### I'm Rae Kwon.
 - 📈 I'm currently working as a <b>data analyst</b>.
 - 🎓 I have M.A. in Broadcasting·Visual Communication·Culture Contents from Yonsei University.
-- 😆 Fun fact: Raun(라운) is my childhood name, so my account is 'Raunee(라운이)'.
 - 💻 Skills<br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff"/>
