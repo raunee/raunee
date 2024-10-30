@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Rae Kwon.
+#### I'm Lizette Kwon.
 - 📈 I'm currently working as a <b>data analyst</b>.
 - 🎓 I have M.A. in Broadcasting·Visual Communication·Culture Contents from Yonsei University.
 - 💻 Skills<br>
